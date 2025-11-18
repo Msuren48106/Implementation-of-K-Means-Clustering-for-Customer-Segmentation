@@ -26,8 +26,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 Program to implement the K Means Clustering for Customer Segmentation.
 
-Developed by: IRFAN KHAN.N
-RegisterNumber: 212224230097
+Developed by: M.suren
+RegisterNumber: 212223230222
 
 ```
 ```
